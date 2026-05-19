@@ -96,5 +96,3 @@
 //string ters = new string(harflar.Reverse().ToArray());
 
 //Console.WriteLine($"So'zning tersi: {ters}");
-
-
