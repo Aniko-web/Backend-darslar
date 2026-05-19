@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/Day3/" />
+  <Folder Name="/Day3/Hometacks/">
+    <Project Path="D3-HT1/D3-HT1.csproj" />
+  </Folder>
+  <Folder Name="/Day3/Tasks/">
+    <Project Path="D3-T1/D3-T1.csproj" />
+  </Folder>
+  <Folder Name="/Day4/" />
+  <Folder Name="/Day4/Hometasks/">
+    <Project Path="D4-HT1/D4-HT1.csproj" Id="1c4e76b7-a011-44c8-b18f-d6b7b69c2fcd" />
+  </Folder>
+  <Folder Name="/Day4/Tasks/" />
+  <Folder Name="/Day5/" />
+  <Folder Name="/Day5/Hometasks/">
+    <Project Path="D5-HT/D5-HT.csproj" Id="9823e6e3-2cab-485a-9f5a-a5f19c75c727" />
+  </Folder>
+</Solution>

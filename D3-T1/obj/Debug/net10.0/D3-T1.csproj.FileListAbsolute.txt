@@ -1,0 +1,4 @@
+C:\Users\Asd\source\repos\D3-T1\D3-T1\obj\Debug\net10.0\D3-T1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asd\source\repos\D3-T1\D3-T1\obj\Debug\net10.0\D3-T1.AssemblyInfoInputs.cache
+C:\Users\Asd\source\repos\D3-T1\D3-T1\obj\Debug\net10.0\D3-T1.AssemblyInfo.cs
+C:\Users\Asd\source\repos\D3-T1\D3-T1\obj\Debug\net10.0\D3-T1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Asd\source\repos\D3-T1\D5-HT\bin\Debug\net10.0\D5-HT.exe
+C:\Users\Asd\source\repos\D3-T1\D5-HT\bin\Debug\net10.0\D5-HT.deps.json
+C:\Users\Asd\source\repos\D3-T1\D5-HT\bin\Debug\net10.0\D5-HT.runtimeconfig.json
+C:\Users\Asd\source\repos\D3-T1\D5-HT\bin\Debug\net10.0\D5-HT.dll
+C:\Users\Asd\source\repos\D3-T1\D5-HT\bin\Debug\net10.0\D5-HT.pdb
+C:\Users\Asd\source\repos\D3-T1\D5-HT\obj\Debug\net10.0\D5-HT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asd\source\repos\D3-T1\D5-HT\obj\Debug\net10.0\D5-HT.AssemblyInfoInputs.cache
+C:\Users\Asd\source\repos\D3-T1\D5-HT\obj\Debug\net10.0\D5-HT.AssemblyInfo.cs
+C:\Users\Asd\source\repos\D3-T1\D5-HT\obj\Debug\net10.0\D5-HT.csproj.CoreCompileInputs.cache
+C:\Users\Asd\source\repos\D3-T1\D5-HT\obj\Debug\net10.0\D5-HT.dll
+C:\Users\Asd\source\repos\D3-T1\D5-HT\obj\Debug\net10.0\refint\D5-HT.dll
+C:\Users\Asd\source\repos\D3-T1\D5-HT\obj\Debug\net10.0\D5-HT.pdb
+C:\Users\Asd\source\repos\D3-T1\D5-HT\obj\Debug\net10.0\D5-HT.genruntimeconfig.cache
+C:\Users\Asd\source\repos\D3-T1\D5-HT\obj\Debug\net10.0\ref\D5-HT.dll

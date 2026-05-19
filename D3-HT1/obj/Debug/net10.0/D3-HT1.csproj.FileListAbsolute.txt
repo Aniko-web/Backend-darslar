@@ -1,0 +1,14 @@
+C:\Users\Asd\source\repos\D3-T1\D3-HT1\bin\Debug\net10.0\D3-HT1.exe
+C:\Users\Asd\source\repos\D3-T1\D3-HT1\bin\Debug\net10.0\D3-HT1.deps.json
+C:\Users\Asd\source\repos\D3-T1\D3-HT1\bin\Debug\net10.0\D3-HT1.runtimeconfig.json
+C:\Users\Asd\source\repos\D3-T1\D3-HT1\bin\Debug\net10.0\D3-HT1.dll
+C:\Users\Asd\source\repos\D3-T1\D3-HT1\bin\Debug\net10.0\D3-HT1.pdb
+C:\Users\Asd\source\repos\D3-T1\D3-HT1\obj\Debug\net10.0\D3-HT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asd\source\repos\D3-T1\D3-HT1\obj\Debug\net10.0\D3-HT1.AssemblyInfoInputs.cache
+C:\Users\Asd\source\repos\D3-T1\D3-HT1\obj\Debug\net10.0\D3-HT1.AssemblyInfo.cs
+C:\Users\Asd\source\repos\D3-T1\D3-HT1\obj\Debug\net10.0\D3-HT1.csproj.CoreCompileInputs.cache
+C:\Users\Asd\source\repos\D3-T1\D3-HT1\obj\Debug\net10.0\D3-HT1.dll
+C:\Users\Asd\source\repos\D3-T1\D3-HT1\obj\Debug\net10.0\refint\D3-HT1.dll
+C:\Users\Asd\source\repos\D3-T1\D3-HT1\obj\Debug\net10.0\D3-HT1.pdb
+C:\Users\Asd\source\repos\D3-T1\D3-HT1\obj\Debug\net10.0\D3-HT1.genruntimeconfig.cache
+C:\Users\Asd\source\repos\D3-T1\D3-HT1\obj\Debug\net10.0\ref\D3-HT1.dll
